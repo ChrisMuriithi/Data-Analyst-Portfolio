@@ -44,14 +44,14 @@
 
 | # | Project Title | Focus | Tools & Platforms | Highlights |
 |---|---------------|-------|-------------------|------------|
-| **1** | [Secondary TB Prevention in PLHIV: Post-TB IPT (2012–2021)](TB-Secondary-Prevention-IPT/README.md) | Survival analysis, effectiveness | **STATA, SQL Server, Power BI** | IPT after TB ↓ recurrence (**aHR 0.12**); KM survival & time-varying covariates. |
-| **2** | [TB Treatment DSD vs SOC Outcomes (2020–2022)](TB-Treatment-DSD/README.md) | Program outcomes | **STATA, SQL, Power BI** | DSD ↑ treatment success (**OR 1.6**), ↓ mortality (**OR 0.5**). |
-| **3** | [TPT Outcomes: 3HP vs 6H under DSD vs SOC](TPT-DSD-3HP-vs-6H/README.md) | Comparative effectiveness | **STATA, SQL** | 3HP+DSD ↑ completion (**92.6%**), LTFU markedly lower. |
-| **4** | [Bidirectional TB–COVID Screening: Yield & Cascade](TB-COVID-Bidirectional-Screening/README.md) | Cascade analytics | **STATA, SQL, Power BI** | COVID-presumptive cohort = higher TB yield; integrated cascade dashboard. |
-| **5** | [Post-TPT TB in PLHIV: Characteristics & Time to Event](Post-TPT-TB-PLHIV/README.md) | Descriptive/time-to-event | **STATA, SQL** | Only **1.7%** developed TB post-TPT; risk profile for targeted support. |
-| **6** | [Faith-Led HIV Self-Testing: Case Finding & Linkage](Faith-Leaders-HIVST/README.md) | Pre-post evaluation | **STATA, SQL, Power BI** | New diagnoses ↑ **117% (men)**, **134% (women)**; yield doubled. |
-| **7** | [CQI for Rapid Linkage to HIV Care (2011–2015)](CQI-Linkage-HIV-Care/README.md) | Quality improvement | **STATA, SQL, Excel/Power Query** | Linkage **60% → 98% (p<0.0001)**; predictors profiled for action. |
-| **8** | [Recent Infection Surveillance (RITA) Feasibility](Recent-Infection-RITA-Feasibility/README.md) | Predictors of recency, mixed-methods | **STATA, SQL, NVivo** | **8.6%** recent infections; aOR ↑ in women <25; provider interviews support feasibility. |
+| **1** | [Secondary TB Prevention in PLHIV: Post-TB IPT (2012–2021)](https://github.com/ChrisMuriithi/Data-Analyst-Portfolio/tree/main/Project/%20TB-Secondary-Prevention-IPT) | Survival analysis, effectiveness | **STATA, SQL Server, Power BI** | IPT after TB ↓ recurrence (**aHR 0.12**); KM survival & time-varying covariates. |
+| **2** | [TB Treatment DSD vs SOC Outcomes (2020–2022)](https://github.com/ChrisMuriithi/Data-Analyst-Portfolio/tree/main/Project/TB-Treatment-DSD) | Program outcomes | **STATA, SQL, Power BI** | DSD ↑ treatment success (**OR 1.6**), ↓ mortality (**OR 0.5**). |
+| **3** | [TPT Outcomes: 3HP vs 6H under DSD vs SOC](https://github.com/ChrisMuriithi/Data-Analyst-Portfolio/tree/main/Project/TPT-DSD-3HP-vs-6H) | Comparative effectiveness | **STATA, SQL** | 3HP+DSD ↑ completion (**92.6%**), LTFU markedly lower. |
+| **4** | [Bidirectional TB–COVID Screening: Yield & Cascade](https://github.com/ChrisMuriithi/Data-Analyst-Portfolio/tree/main/Project/TB-COVID-Bidirectional-Screening) | Cascade analytics | **STATA, SQL, Power BI** | COVID-presumptive cohort = higher TB yield; integrated cascade dashboard. |
+| **5** | [Post-TPT TB in PLHIV: Characteristics & Time to Event](https://github.com/ChrisMuriithi/Data-Analyst-Portfolio/tree/main/Project/Post-TPT-TB-PLHIV) | Descriptive/time-to-event | **STATA, SQL** | Only **1.7%** developed TB post-TPT; risk profile for targeted support. |
+| **6** | [Faith-Led HIV Self-Testing: Case Finding & Linkage](https://github.com/ChrisMuriithi/Data-Analyst-Portfolio/tree/main/Project/Faith-Leaders-HIVST) | Pre-post evaluation | **STATA, SQL, Power BI** | New diagnoses ↑ **117% (men)**, **134% (women)**; yield doubled. |
+| **7** | [CQI for Rapid Linkage to HIV Care (2011–2015)](https://github.com/ChrisMuriithi/Data-Analyst-Portfolio/tree/main/Project/CQI-Linkage-HIV-Care) | Quality improvement | **STATA, SQL, Excel/Power Query** | Linkage **60% → 98% (p<0.0001)**; predictors profiled for action. |
+| **8** | [Recent Infection Surveillance (RITA) Feasibility](https://github.com/ChrisMuriithi/Data-Analyst-Portfolio/tree/main/Project/Recent-Infection-RITA-Feasibility) | Predictors of recency, mixed-methods | **STATA, SQL, NVivo** | **8.6%** recent infections; aOR ↑ in women <25; provider interviews support feasibility. |
 
 > **Repo layout suggestion**  
 > ```
